@@ -1,12 +1,17 @@
 # PdfLibrary
 Library that relies upon PDFium SDK for managing PDF documents
 
-## Class: PdfManager ##
+## PdfManager ##
+Class that exposes methods to manage PDF documents
 
-### Method: SendPdfToPrinter ###
+### SendPdfToPrinter ###
+Send an PDF to the printer.  Accepts the FQPN to the PDF file and the name of the printer to which it should be sent.
 
-### Method: Printed ###
+### Printed ###
+Returns the status of printing the PDF.
 
-### Method: Unloaded ###
+### Unloaded ###
+Returns the status of unloading a PDF.
 
-### Method: Closed ###
+### Closed ###
+Returns the status of closing a PDF.
