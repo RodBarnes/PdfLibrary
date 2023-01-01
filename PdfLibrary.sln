@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfLibrary", "PdfLibrary.csproj", "{67AC06DD-6D0D-425A-B3FE-43772719AD89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfLibrary", "PdfLibrary.csproj", "{C4C7CDE6-624E-430E-8F86-11B92636102A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF98E772-4831-4E0C-93BD-6DAFCBDAA4D2}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67AC06DD-6D0D-425A-B3FE-43772719AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67AC06DD-6D0D-425A-B3FE-43772719AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67AC06DD-6D0D-425A-B3FE-43772719AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67AC06DD-6D0D-425A-B3FE-43772719AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C7CDE6-624E-430E-8F86-11B92636102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C7CDE6-624E-430E-8F86-11B92636102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C7CDE6-624E-430E-8F86-11B92636102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C7CDE6-624E-430E-8F86-11B92636102A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
